@@ -1,0 +1,11 @@
+drawsvg
+imageio
+kornia
+numpy
+opencv-python
+Pillow
+pyopencl
+shapely
+matplotlib
+scikit-image
+tqdm
